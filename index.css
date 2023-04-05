@@ -562,10 +562,10 @@ footer #icon3:hover {
 }
 @media screen and (max-width: 375px) {
   .homepage h1 {
-    font-size: 20px;
+    font-size: 35px;
   }
   .homepage h2 {
-    font-size: 15px;
+    font-size: 18px;
   }
   .aboutme img,
   .aboutme1 img {
@@ -576,9 +576,9 @@ footer #icon3:hover {
     display: flex;
   }
 }
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 300px) {
   .homepage h1 {
-    font-size: 18px;
+    font-size: 30px;
   }
   .homepage h2 {
     font-size: 12px;
